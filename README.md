@@ -1,4 +1,4 @@
-### Hi there 👋
+### **bold text** Symone randle
 
 <!--
 **symonerandle/symonerandle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
